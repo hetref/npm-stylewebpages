@@ -1,0 +1,29 @@
+{
+  "name": "npm-stylewebpages",
+  "version": "1.0.0",
+  "description": "A simple styling package",
+  "engines": {
+    "node": ">=8.0.0"
+  },
+  "files": [
+    "index.js",
+    "Readme.md"
+  ],
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hetref/npm-stylewebpages.git"
+  },
+  "keywords": [
+    "styling"
+  ],
+  "author": "Aryan Shinde",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hetref/npm-stylewebpages/issues"
+  },
+  "homepage": "https://github.com/hetref/npm-stylewebpages#readme"
+}
