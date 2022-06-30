@@ -1,6 +1,6 @@
 {
   "name": "npm-stylewebpages",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A simple styling package",
   "engines": {
     "node": ">=8.0.0"

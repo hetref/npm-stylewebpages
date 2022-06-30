@@ -31,7 +31,7 @@ module.exports = {
         }
 
         element.forEach(image => {
-            image.style.boxShadow = `10px 10px ${option.boxShadowType} 1px rgba(0, 0, 0, 0.12)`;
+            image.style.boxShadow = `10px 10px ${option.boxShadowType} 1px rgba(0, 0, 0, 0.5)`;
 
             if (option.padding) {
                 image.style.padding = '1rem';
