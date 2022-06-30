@@ -37,5 +37,8 @@ module.exports = {
                 image.style.padding = '1rem';
             }
         })
+    },
+    check: () => {
+        console.log("You have successfully connected the package")
     }
 }
